@@ -18,5 +18,5 @@ Open Chrome  >> Extention section >> Dev Mode >> Load Unpacked >> locate this Di
 # Demo
 
 <kbd>
-![Ads Blocker Demo](https://github.com/manishkr21/GoogleAdsBlocker/blob/main/adblocker_demo.gif)
+![Ads Blocker Demo](adblocker_demo.gif)
 </kbd>
