@@ -1,6 +1,6 @@
-This is a chrome Extension to Block unneccerry and crepy Ads:
+This is a Chrome extension to Block unnecessary and crepy Ads:
 
-# process to install it:
+# Directory Structure:
 
 Download this repository and be in this directory Structure
 
